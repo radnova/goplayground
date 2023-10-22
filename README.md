@@ -1,3 +1,3 @@
 # goplayground
 
-just some go tom foolery
+just some go tomfoolery
